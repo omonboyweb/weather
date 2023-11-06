@@ -1,0 +1,16 @@
+:root {
+    --dark: #25231F;
+    --white: #F3F1E0;
+    --yellow: #EAF357;
+    --darkLight: #B9B9B9;
+    --black: #313131;
+    --blue: #4286F4;
+    --clr-accent: #ff7600;
+    --clr-bg-dark: #242424;
+    --clr-bg-light: #3b3b3b;
+}
+
+body {
+    background-color: var(--clr-bg-dark);
+}
+
